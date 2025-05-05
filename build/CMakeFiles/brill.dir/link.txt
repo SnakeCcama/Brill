@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -g -rdynamic -Wl,--dependency-file=CMakeFiles/brill.dir/link.d CMakeFiles/brill.dir/src/main.cpp.o -o brill  -lglfw /usr/lib/libGLX.so /usr/lib/libOpenGL.so
+/usr/bin/c++ -g -g -Wl,--dependency-file=CMakeFiles/brill.dir/link.d CMakeFiles/brill.dir/src/main.cpp.o -o brill  -lglfw /usr/lib/libGLX.so /usr/lib/libOpenGL.so

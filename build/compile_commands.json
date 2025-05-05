@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/home/magsgl/Desktop/OpenGl/brill/glBrill/build",
-  "command": "/usr/bin/g++ -g -g -o CMakeFiles/brill.dir/src/main.cpp.o -c /home/magsgl/Desktop/OpenGl/brill/glBrill/src/main.cpp",
-  "file": "/home/magsgl/Desktop/OpenGl/brill/glBrill/src/main.cpp",
+  "directory": "/home/magsgl/Desktop/OpenGl/lighting/brilliant/glBrill/build",
+  "command": "/usr/bin/c++   -g -g -o CMakeFiles/brill.dir/src/main.cpp.o -c /home/magsgl/Desktop/OpenGl/lighting/brilliant/glBrill/src/main.cpp",
+  "file": "/home/magsgl/Desktop/OpenGl/lighting/brilliant/glBrill/src/main.cpp",
   "output": "CMakeFiles/brill.dir/src/main.cpp.o"
 }
 ]

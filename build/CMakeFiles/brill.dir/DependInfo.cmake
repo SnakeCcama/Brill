@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/magsgl/Desktop/OpenGl/brill/glBrill/src/main.cpp" "CMakeFiles/brill.dir/src/main.cpp.o" "gcc" "CMakeFiles/brill.dir/src/main.cpp.o.d"
+  "/home/magsgl/Desktop/OpenGl/lighting/brilliant/glBrill/src/main.cpp" "CMakeFiles/brill.dir/src/main.cpp.o" "gcc" "CMakeFiles/brill.dir/src/main.cpp.o.d"
   "" "brill" "gcc" "CMakeFiles/brill.dir/link.d"
   )
 

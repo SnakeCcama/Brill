@@ -15,8 +15,8 @@ enum Camera_Movement {
 
 const float YAW = - 90.0f;
 const float PITCH = 0.0f;
-const float SPEED = 2.5f;
-const float SENSITIVITY = 0.01f;
+const float SPEED = 2.0f;
+const float SENSITIVITY = 0.015f;
 const float ZOOM = 45.0f;
 
 
@@ -55,8 +55,6 @@ public:
         WorldUp = glm::vec3(upX, upY, upZ);
         Yaw = yaw;
         Pitch = pitch;
-        
-        std::cout<<"Movement speed"<< MovementSpeed << std::flush;
         
         updateCameraVectors();
     }
